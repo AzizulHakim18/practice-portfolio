@@ -190,3 +190,23 @@ hr {
     height: 1px;
     color: #D1D1D1;
 }
+
+.progress-title {
+    color: #474747;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+progress {
+    width: 373px;
+    height: 40px;
+
+}
+
+.progress-graph {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
