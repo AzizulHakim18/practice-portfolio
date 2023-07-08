@@ -130,6 +130,12 @@ p {
     margin: 30px 0px;
 }
 
+.show-experience {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
 .hero-box {
     width: 267px;
     height: 377px;
@@ -153,4 +159,34 @@ p {
     font-weight: 700;
     line-height: normal;
     margin: 30px 0px;
+}
+
+.education-section-title {
+    color: #474747;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.show-box-title {
+    color: #474747;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.show-box-regration {
+    color: #757575;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+hr {
+    width: 558px;
+    height: 1px;
+    color: #D1D1D1;
 }
